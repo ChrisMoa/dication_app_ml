@@ -1,0 +1,9 @@
+torch>=2.0.0
+transformers>=4.30.0
+tensorflow>=2.13.0
+onnx>=1.14.0
+tf2onnx>=1.15.0
+tensorflow-model-optimization>=0.7.3
+numpy>=1.21.0
+tqdm
+sentencepiece
